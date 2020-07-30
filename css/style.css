@@ -1,0 +1,96 @@
+/* CSS style sheet*/
+#main-wrapper{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border: 2px solid #9980FA;
+}
+
+.loginkey{
+	width:150px;
+	text-align: center;
+
+}
+
+.myform{
+	width: 450px;
+	margin: 0 auto;
+}
+
+.inputvalues{
+	width:430px;
+	
+	margin: 0 auto;
+	padding: 5px;
+}
+#login_btn{
+		border-radius:6px;
+		margin-top:20px;
+		background-color:#7158e2;
+		padding:5px;
+		color:white;
+		width:97%;
+		text-align:center;
+		font-size:18px;
+		font-weight:bold;
+		border: 2px solid #4834d4;
+}
+
+#register_btn{
+		border-radius:6px;
+		margin-bottom:50px;
+		margin-top:15px;
+		background-color:#FC427B;
+		padding:5px;
+		color:white;
+		width:97%;
+		text-align:center;
+		font-size:18px;
+		font-weight:bold;
+		border: 2px solid #ff6b81;
+	
+}
+#signup_btn{
+		border-radius:6px;
+		margin-top:20px;
+		background-color:#1B9CFC;
+		padding:5px;
+		color:white;
+		width:97%;
+		text-align:center;
+		font-size:18px;
+		font-weight:bold;
+		border: 2px solid #3498db;
+}
+
+#back_btn{
+		border-radius:6px;
+		margin-bottom:50px;
+		margin-top:15px;
+		background-color:#FD7272;
+		padding:5px;
+		color:white;
+
+		text-align:center;
+		font-size:18px;
+		font-weight:bold;
+		border: 2px solid #ff7f50;
+	
+}
+
+#logout_btn{
+		border-radius:6px;
+		margin-bottom:25px;
+		margin-top:15px;
+		background-color:#eb4d4b;
+		padding:5px;
+		color:white;
+		text-align:center;
+		font-size:18px;
+		font-weight:bold;
+		width:50%;
+		border: 2px solid #ff7979;
+	
+}
